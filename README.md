@@ -1,6 +1,8 @@
 # Nabatean Keyboard Layout
 A basic Mac keyboard layout for typing Nabatean characters from the Unicode range 10880—108AF. This layout uses the preinstalled layout "Syriac – Arabic" as a starting point, so the placement of equivalent consonants should be familiar to those who type Arabic or Syriac.
 
+This layout was created with the [Ukelele](https://software.sil.org/ukelele/) keyboard layout editor.
+
 **Note:** Access final consonants and the numbers 20 and 100 by pressing the `Shift` key.
 ## Getting Started
 **Mac OS:** 
@@ -26,4 +28,7 @@ Fonts supporting the Nabatean range of characters include:
 - [Everson Mono](https://evertype.com/emono/)
 
 ## Known Issues
-
+Please feel free to contribute with a fork and pull request! Edits to the layout can be done in [Ukelele](https://software.sil.org/ukelele/).
+- https://github.com/nathangibson/nabatean-keyboard/issues/3 Port for Windows
+- https://github.com/nathangibson/nabatean-keyboard/issues/1 Add ligature support for final consonants
+- https://github.com/nathangibson/nabatean-keyboard/issues/2 Add icon
