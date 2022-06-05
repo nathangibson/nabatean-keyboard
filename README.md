@@ -1,7 +1,7 @@
 # Nabatean Keyboard Layout
 A basic Mac keyboard layout for typing Nabatean characters from the Unicode range 10880—108AF. This layout uses the preinstalled layout "Syriac – Arabic" as a starting point, so the placement of equivalent consonants should be familiar to those who type Arabic or Syriac.
 
-**⚠️ This keyboard layout merely provides a method to insert the characters currently in the Unicode range for Nabatean.** It does not provide any additional characters or features. 
+**⚠️ June 5, 2022: This keyboard layout merely provides a method to insert the characters currently in the Unicode range for Nabatean.** It does not provide any additional characters or features. 
 
 **⚠️ Specifically, connecting letters are a feature of the Nabatean script but typed characters cannot be connected.** This keyboard layout does not provide any way to connect letters, since (as far as I know), Unicode and font support for connecting letters in Nabatean is currently lacking.
 
