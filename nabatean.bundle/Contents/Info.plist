@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.nabatean</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>nabatean</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Nabatean</key>
@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..nabatean</string>
+		<string>org.sil.ukelele.keyboardlayout.nabatean.nabatean</string>
 		<key>TISIntendedLanguage</key>
 		<string>arc-Nbat</string>
 	</dict>
