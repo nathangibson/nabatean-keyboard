@@ -35,9 +35,9 @@ Fonts supporting the Nabatean range of characters include:
 Here you can see an example of the difference between a real inscription with connected and typed Nabatean (currently without letter-connecting features).
 
 **Umm al-Jimal Inscription**
-| Tracing by Sabulhab (Wikimedia Commons) | Typed |
+| Tracing by [Sabulhab (Wikimedia Commons)](https://commons.wikimedia.org/wiki/File:Umm_al-Jimal_al-Awwal_commons.jpg) | Typed |
 | -- | -- |
-| <a title="Sabulhab, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Umm_al-Jimal_al-Awwal_commons.jpg"><img width="256" alt="Umm al-Jimal al-Awwal commons" src="https://raw.githubusercontent.com/nathangibson/nabatean-keyboard/main/images/umm-al-jimal-al-awwal.jpg"></a> | <img width="256" alt="keyboard-layout-shift" src="https://raw.githubusercontent.com/nathangibson/nabatean-keyboard/main/images/umm-al-jimal-al-awwal-typed.png"> |
+| <a title="Sabulhab, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Umm_al-Jimal_al-Awwal_commons.jpg"><img width="256" alt="Umm al-Jimal al-Awwal commons" src="https://raw.githubusercontent.com/nathangibson/nabatean-keyboard/main/images/umm-al-jimal-al-awwal.jpg"></a> | <img width="256" alt="keyboard-layout-shift" src="https://raw.githubusercontent.com/nathangibson/nabatean-keyboard/main/images/umm-al-jimal-al-awwal-typed.jpg"> |
 
 ## Known Issues
 Please feel free to contribute with a fork and pull request! Edits to the layout can be done in [Ukelele](https://software.sil.org/ukelele/).
