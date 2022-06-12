@@ -11,7 +11,8 @@ This layout was created with the [Ukelele](https://software.sil.org/ukelele/) ke
 ## Getting Started
 **Mac OS:** 
  1. Download and unzip the latest release from https://github.com/nathangibson/nabatean-keyboard/releases. Copy the file `nabatean.bundle` to either `"~/Library/Keyboard Layouts"` or `"/Library/Keyboard Layouts"`.
- 2. Go to System Preferences > Keyboards > Input Sources. Click the + button and select "Aramaic (Nabatean)" from the list. Click "Add". All done!
+ 2. Go to System Preferences > Keyboards > Input Sources. Click the + button and select "Aramaic (Nabatean)" from the list. Click "Add". 
+ 3. Reboot your computer. All done!
 
 **Windows:** A Windows version is not yet available.
 ## Keyboard Layout
