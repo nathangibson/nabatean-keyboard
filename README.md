@@ -44,4 +44,3 @@ Here you can see an example of the difference between a real inscription with co
 Please feel free to contribute with a fork and pull request! Edits to the layout can be done in [Ukelele](https://software.sil.org/ukelele/).
 - https://github.com/nathangibson/nabatean-keyboard/issues/3 Port for Windows
 - https://github.com/nathangibson/nabatean-keyboard/issues/1 Add ligature support for final consonants
-- https://github.com/nathangibson/nabatean-keyboard/issues/2 Add icon
