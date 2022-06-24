@@ -1,0 +1,14 @@
+# Adapted from Aidan (https://stackoverflow.com/users/1159299/aidan) at https://stackoverflow.com/questions/12306223/how-to-manually-create-icns-files-using-iconutil?answertab=trending#tab-top
+mkdir nabatean.iconset
+sips -z 16 16     nabatean.png --out nabatean.iconset/icon_16x16.png
+sips -z 32 32     nabatean.png --out nabatean.iconset/icon_16x16@2x.png
+sips -z 32 32     nabatean.png --out nabatean.iconset/icon_32x32.png
+sips -z 64 64     nabatean.png --out nabatean.iconset/icon_32x32@2x.png
+sips -z 128 128   nabatean.png --out nabatean.iconset/icon_128x128.png
+sips -z 256 256   nabatean.png --out nabatean.iconset/icon_128x128@2x.png
+sips -z 256 256   nabatean.png --out nabatean.iconset/icon_256x256.png
+sips -z 512 512   nabatean.png --out nabatean.iconset/icon_256x256@2x.png
+sips -z 512 512   nabatean.png --out nabatean.iconset/icon_512x512.png
+cp nabatean.png nabatean.iconset/icon_512x512@2x.png
+iconutil -c icns nabatean.iconset
+rm -R nabatean.iconset
